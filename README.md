@@ -127,4 +127,3 @@ A few projects that use `@codegouvfr/react-dsfr`.
 -   https://signal.conso.gouv.fr
 -   https://territoiresentransitions.fr
 -   https://www.mediateur-public.fr
-
